@@ -15,5 +15,3 @@ if(num == sum):
 else:
   print("the given number is not a armstrong number")
   
-
-

@@ -14,4 +14,3 @@ for i in range(1,small+1):
   
 
 print("HCF is: ",hcf)
-
